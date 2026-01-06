@@ -68,15 +68,6 @@ Esta aplicación permite crear, visualizar, marcar como completadas y eliminar t
 - "Cancelar": Cierra la ventana actual
 - "Salir": Cierra la aplicación completa
 
-## 📁 Estructura del Proyecto
-
-```
-ListaDeTraeas/
-├── README.md              # Este archivo
-└── src/
-    ├── Main.java          # Clase principal con la interfaz gráfica
-    └── Tarea.java         # Clase que representa una tarea
-```
 
 ## 🔧 Clases Principales
 
@@ -103,7 +94,7 @@ Si deseas contribuir al proyecto:
 
 ## 👨‍💻 Autor
 
-Carlos Quinterp 
+Carlos QuinterO
 
 ---
 
